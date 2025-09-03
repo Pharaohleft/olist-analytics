@@ -1,0 +1,27 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Data (keep tiny samples only if you want)
+data_clean/*
+outputs/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env

@@ -1,0 +1,8 @@
+﻿pandas==2.2.2
+numpy==1.26.4
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+scikit-learn==1.5.1
+pandera[io]==0.20.3
+matplotlib==3.9.0
+SQLAlchemy==2.0.32
